@@ -55,4 +55,5 @@ public class Article {
 	public void setReference(String reference) {
 		this.reference = reference;
 	}
+	
 }
